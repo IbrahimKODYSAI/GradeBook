@@ -1,0 +1,37 @@
+#table{
+  width: 50em;
+  margin: 3em auto;
+  font-family: 'Indie Flower', cursive;
+  font-weight: 300;
+  font-size: 1.2em;
+
+}
+#table td{
+  border: 1px solid #E6E6E6;
+  padding: 1em;
+}
+#table th {
+  border: 1px solid #E6E6E6;
+  padding: 1em;
+}
+#table caption{
+  background-color: #F6F6F6;
+  padding: 1em;
+
+}
+#table input{
+  display: inline-block;
+  font-family: 'Indie Flower', cursive;
+  font-size: 1.2em;
+  border: none;
+  width: 1.5em;
+}
+#averageRow td{
+  text-align: center;
+}
+.error{
+  background-color: #FDE1E1;
+}
+.succes{
+  background-color: #D6FAD9;
+}
